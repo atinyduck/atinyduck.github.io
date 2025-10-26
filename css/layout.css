@@ -346,7 +346,7 @@ fieldset[disabled] .btn-theme {
   	[Service]
 ------------------------------------------------------------------*/
 .service {
-  background: #fff;
+  background: #181818;
   padding: 30px;
 }
 
@@ -458,7 +458,7 @@ fieldset[disabled] .btn-theme {
   width: 730px;
   height: auto;
   display: block;
-  background: #fff;
+  background: #181818;
   padding: 30px;
   margin: 0 auto;
   -webkit-transform: translate3d(0, -50%, 0);
